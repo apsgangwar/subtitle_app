@@ -1,0 +1,10 @@
+1. Application is build on ReactJS
+2. App is hosted using GitHub Pages on https://apsgangwar.github.io/subtitle_app
+3. Source code is in public repo - https://github.com/apsgangwar/subtitle_app
+4. A sample video https://youtu.be/Gjnup-PuquQ and its subtitles are already included for demo purposes.
+5. App only supports YouTube video and any hosted video with mp4 or webm format.
+6. For video streaming, video.js library is used - https://videojs.com
+7. User can upload subtitles, edit in text-area or add subtitles for a timestamp range.
+8. Only one subtitle is allowed, on applying new subtitle, it will replace old one.
+9. Subtitles are applied in WebVTT format to video. However, user can upload both .srt/.vtt files.
+10. To run app locally, run "npm install" and then "npm start".
